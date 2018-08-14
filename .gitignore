@@ -1,5 +1,3 @@
 node_modules/
 temp/*
 !temp/.gitkeep
-certs/*
-!certs/.gitkeep
